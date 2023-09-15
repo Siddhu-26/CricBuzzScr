@@ -1,0 +1,12 @@
+[build-system]
+requires = ['setuptools>=42']
+build-backend = 'setuptools.build_meta'
+
+[project]
+name = "CricBuzzScr"
+version = "0.0" 
+description= "You can get the live scores from cricbuzz.com. You can also view commentary and scorecard."
+
+[project.urls]
+"Homepage" = "https://github.com/Siddhu-26/CricBuzzScr"
+"Bug Tracker" = "https://github.com/Siddhu-26/CricBuzzScr/issues"
